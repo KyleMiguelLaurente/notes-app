@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#Steps to Initialize to your Local Machine
+1. Install the following:
+### `npm i react-bootstrap`
+### `npm i react-bootswatch`
+### `npm i react-router-dom`
+### `npm i react-router-bootsrap`
+
 ## Available Scripts
 
 In the project directory, you can run:
